@@ -1,11 +1,9 @@
 run server.py
 
-you can get your screen as emojis by http request post on http://127.0.0.1/emojis
+run script
 
-send {"scale": number}
+put some blocks and make them match the colors in the gui
 
-more scale = more emojis = better resolution
+start the thing
 
-stream.py is preview by printing
-
-btw all of this is windows thing
+put ur hand in front of your main camera
