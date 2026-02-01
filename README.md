@@ -1,6 +1,6 @@
 run server.py
 
-run script
+run script in an executor like xeno
 
 put some blocks and make them match the colors in the gui
 
